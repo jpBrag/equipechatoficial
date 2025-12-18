@@ -96,6 +96,7 @@
     "yup": "^0.32.8",
     "zustand": "^4.4.1"
   },
+  
   "scripts": {
     "dev": "react-scripts  --openssl-legacy-provider start",
     "start": "react-scripts start",
@@ -103,6 +104,9 @@
     "builddev": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "overrides": {
+    "fast-png": "4.0.0"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -123,3 +127,4 @@
     "typescript": "^5.5.3"
   }
 }
+
