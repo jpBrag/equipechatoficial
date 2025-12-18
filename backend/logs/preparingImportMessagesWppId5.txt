@@ -1,0 +1,14 @@
+Aguardando conexão para iniciar a importação de mensagens:
+  Whatsapp nome: teste
+  Whatsapp Id: 5
+  Criação do arquivo de logs: 08/08/2025 11:07:51
+  Selecionado Data de inicio de importação: 01/01/2025 12:00:00 
+  Selecionado Data final da importação: 08/08/2025 10:43:00 
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 31/07/2025 15:49:12
+  Contato da Mensagem : 554799191558@s.whatsapp.net
+  Tipo da mensagem : imageMessage
+  
+   

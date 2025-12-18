@@ -1,0 +1,55 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: teste
+    Whatsapp Id: 5
+    Criação do arquivo de logs: 08/08/2025 11:08:37
+    Selecionado Data de inicio de importação: 01/01/2025 12:00:00 
+    Selecionado Data final da importação: 08/08/2025 10:43:00 
+     
+
+Mensagem 1 de 1
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554799191558@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AC51D914739D10D3250C1EE23C0E81A8"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m233/AQP2a-Ke6YX-pbMdjBmFlng-IRC6c74DZn0JciWTmmZzMulLCNMNstMHUm7-6wrqsGY6XgveH27NtrtfET_CL4AnxbuDnus7UaITeKB2Ng?ccb=9-4&oh=01_Q5Aa2AFDRdW0vbDyDxcRln6s2Z5bCz5FOJbzyPB7T06iJ7GkoQ&oe=68B329F8&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "Boa tarde!\n\nSou Cíntia consultora da *Laci Baruffi* 🧡 \n\nSemana que antecede o *DIA DOS PAÍS,* estamos com muitas opções de presentes para esse dia tão esperado!!!",
+      "fileSha256": "sUWE+rawD1LBUUMCUKkDw2swnIWXRtIKi4fnDNQwhlA=",
+      "fileLength": "118822",
+      "height": 1280,
+      "width": 879,
+      "mediaKey": "pTi3rJJsZHYE7y6X+W/42zt5ZyQ9qH8M7PRoqUPiRpc=",
+      "fileEncSha256": "YQjqOSmeJ1sVuFB8saatD99m15u/TlSRJgpZ7WzScvY=",
+      "directPath": "/o1/v/t24/f2/m233/AQP2a-Ke6YX-pbMdjBmFlng-IRC6c74DZn0JciWTmmZzMulLCNMNstMHUm7-6wrqsGY6XgveH27NtrtfET_CL4AnxbuDnus7UaITeKB2Ng?ccb=9-4&oh=01_Q5Aa2AFDRdW0vbDyDxcRln6s2Z5bCz5FOJbzyPB7T06iJ7GkoQ&oe=68B329F8&_nc_sid=e6ed6c&_nc_hot=1753987751",
+      "mediaKeyTimestamp": "1753900941",
+      "contextInfo": {
+        "pairedMediaType": "NOT_PAIRED_MEDIA"
+      },
+      "scansSidecar": "JYxqSiS/zb9l8l7W043WtoOSbXiJVmoja4s0y1QfR2zbyjwRCTRPhA==",
+      "scanLengths": [
+        11403,
+        38039,
+        24230,
+        45150
+      ],
+      "midQualityFileSha256": "gqoSMPKOVA6Mw55fTs4RE+ITy+DAY27k7Id4AVg5EAM="
+    },
+    "messageContextInfo": {
+      "messageSecret": "o4qinrWjcC+1zxgjn8o9sVxwO+umjBakWO+4Ckg8FfQ="
+    }
+  },
+  "messageTimestamp": "1753987752",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/IMG-20250731-WA0000.jpg"
+  },
+  "messageSecret": "o4qinrWjcC+1zxgjn8o9sVxwO+umjBakWO+4Ckg8FfQ=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQlyyDFqmcavN2FLCaiwc2CZpa0="
+  },
+  "isMentionedInStatus": false
+}>>>>>>>>>>>>>>>>>>> 
